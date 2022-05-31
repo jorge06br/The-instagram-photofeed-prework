@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(238, 236, 236);
+    margin: auto;
+}
+h1{
+    margin-top:0;
+    font-family: 'Whisper', cursive;
+}
+h3{
+    margin: 5px 5px;
+    font-family: 'Shadows Into Light', cursive;
+}
+h4{
+    margin-left: auto;
+    margin-top: 5px;
+    color:lightgray;
+    font-family: 'Inconsolata', monospace;
+}
+#logo{
+    background-color: white;
+    text-align: center;
+  }
+#Content-Header{
+    display:flex;
+    height: 45px;
+    border-bottom: solid 1px lightgrey;
+    height: 15%;
+}
+#Content-div{
+    background-color: white;
+    width: 500px;
+    margin:auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    }
+img{
+    width: 500px;
+    height: 300px;
+}
+#Content-Footer{
+    border-top: solid 1px lightgray;
+    padding-left: 10px;
+    padding-bottom: 1px;
+    height: 20%;
+    font-family: 'Inconsolata', monospace;
+}
+
